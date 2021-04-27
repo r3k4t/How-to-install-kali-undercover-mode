@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>Solution</title>
-<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 <h1> How to install kali linux undercover mode in any linux?</h1>
