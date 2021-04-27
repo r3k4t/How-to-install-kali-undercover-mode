@@ -28,7 +28,7 @@
 <br>
 <h4>Screenshot:</h4>
 <br>
-<img src="img/image.png"alt="image"/>
+<img src="image.png"alt="image"/>
 
 </body>
 </html>
