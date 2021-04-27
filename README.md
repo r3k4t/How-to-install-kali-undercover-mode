@@ -5,9 +5,9 @@
 </head>
 <body>
 <h1> How to install kali linux undercover mode in any linux?</h1>
-<center>
+
 <h6>RKT(Rahat Khan Tusar)</h6>
-</center>
+
 <br>
 <h4> Solution:</h4>
 <br>
