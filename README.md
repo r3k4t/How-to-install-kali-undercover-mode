@@ -1,14 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Solution</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <h1> How to install kali linux undercover mode in any linux?</h1>
 <br>
 <center>
-<h1><font color="darkcyan">RKT(Rahat Khan Tusar)</font></h1>
+<h6>RKT(Rahat Khan Tusar)</h6>
 </center>
 <br>
 <h4> Solution:</h4>
