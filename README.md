@@ -8,7 +8,6 @@
 
 <h6>RKT(Rahat Khan Tusar)</h6>
 
-<br>
 <h4> Solution:</h4>
 <br>
 <center>
